@@ -912,11 +912,13 @@ section.news .news__title {
   width: 100%;
   min-height: 13.9rem;
   margin: 0rem 0rem 1.62rem 0rem;
+  text-align: center;
 }
 
 .inner-cases__img img {
   -o-object-fit: cover;
      object-fit: cover;
+  max-height: 13.9rem;
 }
 
 .inner-cases__title {
@@ -932,7 +934,7 @@ section.news .news__title {
 
 .inner-cases__title img {
   margin: 0rem 1rem 0rem 0rem;
-  max-width: 4.5rem;
+  max-width: 2.5rem;
 }
 
 .inner-cases__text {
@@ -1006,6 +1008,7 @@ section.nisha .nisha__title {
   height: auto;
   -o-object-fit: cover;
      object-fit: cover;
+  max-height: 12.5rem;
 }
 
 .inner-nisha__title {
