@@ -1069,6 +1069,27 @@ section.nisha .nisha__title {
   cursor: pointer;
 }
 
+.niche-progect__content {
+  padding: 0rem 0rem 10rem 0rem;
+}
+
+.niche-progect__title {
+  text-align: center;
+  font-size: 4.5rem;
+  text-transform: uppercase;
+  margin: 0rem 0rem 4rem 0rem;
+}
+
+.niche-progect__btn {
+  text-align: center;
+  max-width: 40rem;
+  margin: 0 auto;
+}
+
+.niche-progect__btn a {
+  width: 100%;
+}
+
 .creative__content {
   padding: 14rem 0rem 5.2rem 0rem;
 }
@@ -2377,6 +2398,10 @@ section.nisha .nisha__title {
 
   .inner-nisha__text {
     padding: 0rem 0rem 0rem 0.8rem;
+  }
+
+  .niche-progect__title {
+    font-size: 2.5rem;
   }
 
   .create__content {
