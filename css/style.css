@@ -2400,8 +2400,17 @@ section.nisha .nisha__title {
     padding: 0rem 0rem 0rem 0.8rem;
   }
 
+  .niche-progect__content {
+    padding: 0rem 2.8rem 10rem;
+  }
+
   .niche-progect__title {
     font-size: 2.5rem;
+    margin: 0rem 0rem 3rem 0rem;
+  }
+
+  .niche-progect__btn a {
+    font-size: 1.6rem;
   }
 
   .create__content {
