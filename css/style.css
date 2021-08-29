@@ -557,9 +557,9 @@ input:active {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
   margin: 0rem 0rem 13.7rem 0rem;
 }
 
@@ -928,6 +928,7 @@ section.news .news__title {
       -ms-flex-align: end;
           align-items: flex-end;
   margin: 0rem 0rem 1.46rem 0rem;
+  padding: 0rem 2rem 0rem 0rem;
 }
 
 .inner-cases__title img {
